@@ -1,4 +1,5 @@
 = About me
 
 Java Developer, co-author of https://www.apress.com/gp/book/9781484243626#otherversion=9781484243633[Pro CDI in Java EE 8].
-image::pro-cdi-cover.jpg[Pro CDI,link=https://www.apress.com/gp/book/9781484243626#otherversion=9781484243633]
+
+image:pro-cdi-cover.jpg[Pro CDI,link=https://www.apress.com/gp/book/9781484243626#otherversion=9781484243633]
